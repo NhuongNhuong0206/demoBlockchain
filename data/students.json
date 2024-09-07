@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Nguyễn Văn A",
+        "studentId": "001",
+        "schoolId": "001",
+        "grades": {
+            "toan": 8,
+            "ly": 7,
+            "hoa": 9,
+            "sinh": 8,
+            "anh": 7,
+            "van": 6,
+            "su": 8,
+            "dia": 7,
+            "gdcd": 9
+        }
+    },
+    {
+        "name": "Trần Thị B",
+        "studentId": "002",
+        "schoolId": "001",
+        "grades": {
+            "toan": 9,
+            "ly": 8,
+            "hoa": 6,
+            "sinh": 7,
+            "anh": 8,
+            "van": 7,
+            "su": 6,
+            "dia": 8,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Trần Thị C",
+        "studentId": "003",
+        "schoolId": "001",
+        "grades": {
+            "toan": 10,
+            "ly": 9,
+            "hoa": 6,
+            "sinh": 4,
+            "anh": 8,
+            "van": 7,
+            "su": 9,
+            "dia": 5,
+            "gdcd": 6
+        }
+    },
+    {
+        "name": "Nguyen Anh D",
+        "studentId": "004",
+        "schoolId": "001",
+        "grades": {
+            "toan": 7,
+            "ly": 8,
+            "hoa": 9,
+            "sinh": 8,
+            "anh": 8,
+            "van": 6,
+            "su": 6,
+            "dia": 7,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Trinh Thi E",
+        "studentId": "005",
+        "schoolId": "001",
+        "grades": {
+            "toan": 9,
+            "ly": 9,
+            "hoa": 5,
+            "sinh": 8,
+            "anh": 8,
+            "van": 6,
+            "su": 6,
+            "dia": 7,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Ho Tran F",
+        "studentId": "006",
+        "schoolId": "001",
+        "grades": {
+            "toan": 7,
+            "ly": 5,
+            "hoa": 6,
+            "sinh": 9,
+            "anh": 8,
+            "van": 8,
+            "su": 7,
+            "dia": 8,
+            "gdcd": 3
+        }
+    },
+    {
+        "name": "Trần Thị G",
+        "studentId": "007",
+        "schoolId": "001",
+        "grades": {
+            "toan": 9,
+            "ly": 8,
+            "hoa": 6,
+            "sinh": 7,
+            "anh": 9,
+            "van": 7,
+            "su": 6,
+            "dia": 8,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Trần Thị H",
+        "studentId": "008",
+        "schoolId": "001",
+        "grades": {
+            "toan": 8,
+            "ly": 8,
+            "hoa": 5,
+            "sinh": 7,
+            "anh": 8,
+            "van": 7,
+            "su": 6,
+            "dia": 9,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Dang Quang K",
+        "studentId": "009",
+        "schoolId": "001",
+        "grades": {
+            "toan": 9,
+            "ly": 8,
+            "hoa": 6,
+            "sinh": 7,
+            "anh": 10,
+            "van": 7,
+            "su": 5,
+            "dia": 8,
+            "gdcd": 8
+        }
+    },
+    {
+        "name": "Nguyễn Thị D",
+        "studentId": "026",
+        "schoolId": "002",
+        "grades": {
+            "toan": 6,
+            "ly": 8,
+            "hoa": 7,
+            "sinh": 8,
+            "anh": 6,
+            "van": 7,
+            "su": 8,
+            "dia": 9,
+            "gdcd": 6
+        }
+    },
+    {
+        "name": "Hoàng Văn E",
+        "studentId": "027",
+        "schoolId": "002",
+        "grades": {
+            "toan": 8,
+            "ly": 7,
+            "hoa": 6,
+            "sinh": 9,
+            "anh": 8,
+            "van": 6,
+            "su": 7,
+            "dia": 8,
+            "gdcd": 9
+        }
+    },
+    {
+        "name": "Phạm Thị F",
+        "studentId": "050",
+        "schoolId": "002",
+        "grades": {
+            "toan": 9,
+            "ly": 6,
+            "hoa": 7,
+            "sinh": 8,
+            "anh": 7,
+            "van": 8,
+            "su": 6,
+            "dia": 7,
+            "gdcd": 8
+        }
+    },
+    {
+        "name": "Nguyễn Văn G",
+        "studentId": "051",
+        "schoolId": "003",
+        "grades": {
+            "toan": 7,
+            "ly": 9,
+            "hoa": 8,
+            "sinh": 6,
+            "anh": 9,
+            "van": 7,
+            "su": 8,
+            "dia": 6,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Trần Thị H",
+        "studentId": "052",
+        "schoolId": "003",
+        "grades": {
+            "toan": 8,
+            "ly": 7,
+            "hoa": 9,
+            "sinh": 8,
+            "anh": 6,
+            "van": 9,
+            "su": 7,
+            "dia": 8,
+            "gdcd": 6
+        }
+    },
+    {
+        "name": "Lê Văn I",
+        "studentId": "075",
+        "schoolId": "003",
+        "grades": {
+            "toan": 6,
+            "ly": 8,
+            "hoa": 7,
+            "sinh": 9,
+            "anh": 8,
+            "van": 6,
+            "su": 9,
+            "dia": 7,
+            "gdcd": 8
+        }
+    },
+    {
+        "name": "Nguyễn Thị J",
+        "studentId": "076",
+        "schoolId": "004",
+        "grades": {
+            "toan": 9,
+            "ly": 6,
+            "hoa": 8,
+            "sinh": 7,
+            "anh": 8,
+            "van": 7,
+            "su": 9,
+            "dia": 6,
+            "gdcd": 7
+        }
+    },
+    {
+        "name": "Hoàng Văn K",
+        "studentId": "077",
+        "schoolId": "004",
+        "grades": {
+            "toan": 8,
+            "ly": 9,
+            "hoa": 7,
+            "sinh": 6,
+            "anh": 7,
+            "van": 8,
+            "su": 6,
+            "dia": 9,
+            "gdcd": 8
+        }
+    },
+    {
+        "name": "Phạm Thị L",
+        "studentId": "100",
+        "schoolId": "004",
+        "grades": {
+            "toan": 7,
+            "ly": 8,
+            "hoa": 9,
+            "sinh": 7,
+            "anh": 9,
+            "van": 6,
+            "su": 8,
+            "dia": 9,
+            "gdcd": 6
+        }
+    }
+]
