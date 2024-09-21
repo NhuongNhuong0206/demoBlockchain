@@ -11,7 +11,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "@types/node": "^22.5.2",
-    "hardhat": "^2.22.8"
+    "hardhat": "^2.22.10",
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.6",

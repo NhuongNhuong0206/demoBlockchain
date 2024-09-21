@@ -11,7 +11,7 @@ contract Grade {
 
     event GradeAdded(uint256 studentId, string subject, uint8 grade);//Thông báo là điểm mới được thêm vào
     //Hàm thêm điểm cho học sinh
-    function addGrade(uint256 _studentId, string memory _subject, uint8 _grade) internal virtual {
+    function addGrade(uint256 _studentId, string memory _subject, uint8 _grade) public virtual {
         require(_grade >= 0 && _grade <= 10, "Diem phai nam trong khoan tu 0 den 10");
         //Cây để dể hiểu 2 cấp mapping
         //studentGrades:

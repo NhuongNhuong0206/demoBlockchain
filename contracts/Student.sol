@@ -18,7 +18,7 @@ contract Student {
         string memory _name,
         string memory _studentIden,
         string memory _schoolId
-    ) internal virtual {
+    ) public virtual {
         require(!students[_studentId].exists, "Student already exists");// Nếu học sinh đã tồn tại thì thông báo
 
         students[_studentId] = StudentInfo(_name, _studentIden, _schoolId, true);//add học sinh
